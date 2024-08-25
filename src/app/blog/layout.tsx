@@ -1,4 +1,4 @@
-export default function PostLayout({
+export default function BlogLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
