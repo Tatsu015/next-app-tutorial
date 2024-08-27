@@ -26,6 +26,9 @@ export default function RootLayout({
             <Link href="/blog">Blog</Link>
           </div>
           <div>
+            <Link href="/blog/xxx">{`slug XXX`}</Link>
+          </div>
+          <div>
             <Link href="/dashboard">Dashboard</Link>
           </div>
           <div>
