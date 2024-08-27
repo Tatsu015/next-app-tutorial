@@ -21,11 +21,23 @@ export default function RootLayout({
         <div>
           <div>
             <Link href="/">Top</Link>
+          </div>
+          <div>
             <Link href="/blog">Blog</Link>
+          </div>
+          <div>
             <Link href="/dashboard">Dashboard</Link>
+          </div>
+          <div>
             <Link href="/dashboard/analystics">Analystics</Link>
+          </div>
+          <div>
             <Link href="/dashboard/settings">Settings</Link>
+          </div>
+          <div>
             <Link href="/dashboard/settings/password">Password</Link>
+          </div>
+          <div>
             <Link href="/dashboard/settings/profile">Profile</Link>
           </div>
           <div>{children}</div>
