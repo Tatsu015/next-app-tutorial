@@ -6,7 +6,7 @@ export default function BlogLayout({
   return (
     <div>
       <div className="flex flex-col items-center justify-between">
-        Post layout
+        Blog layout
       </div>
       <div>{children}</div>
     </div>
