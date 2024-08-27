@@ -32,7 +32,7 @@ export default function RootLayout({
             <Link href="/dashboard">Dashboard</Link>
           </div>
           <div>
-            <Link href="/dashboard/analystics">Analystics</Link>
+            <Link href="/dashboard/analytics">Analytics</Link>
           </div>
           <div>
             <Link href="/dashboard/settings">Settings</Link>
